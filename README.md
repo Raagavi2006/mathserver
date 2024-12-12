@@ -185,7 +185,7 @@ path('', views.EnergyCalc, name="EnergyCalc"),
 
 # HOMEPAGE:
 
-![alt text](<WEB 5 OP.png>)
+![Screenshot 2024-12-12 081704](https://github.com/user-attachments/assets/0b4b7aa3-669e-4d44-a03a-1a5eafca8231)
 
 # RESULT:
 The program for performing server side processing is completed successfully.
